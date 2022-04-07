@@ -33,7 +33,7 @@ During the proof:
 
 <img width="839" alt="Screenshot Edukera (unfinished proof)" src="https://user-images.githubusercontent.com/1147773/162251236-7183bfca-f0ff-4b0c-99d0-0f1adc387247.png">
 
-Displaying the proof tree:
+An option is also available to display the proof tree:
 
 ![edukera proof tree](https://user-images.githubusercontent.com/1147773/162238716-bc035556-6843-42df-b67a-315428bda5b9.png)
 
