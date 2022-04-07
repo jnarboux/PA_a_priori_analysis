@@ -23,8 +23,12 @@ Given f:A→B and C⊆A, show that if f is injective then f^(-1) (f(C))⊆C.
 
 ### Edukera
 
-<img width="839" alt="Capture d’écran 2022-04-07 à 18 20 57" src="https://user-images.githubusercontent.com/1147773/162251236-7183bfca-f0ff-4b0c-99d0-0f1adc387247.png">
+The popup window when clicking on a definition:
+<img width="839" alt="Screenshot Edukera Popup" src="https://user-images.githubusercontent.com/1147773/162251471-aebd1f72-f794-493a-98e0-2526fef317ab.png">
 
+<img width="839" alt="Screenshot Edukera (unfinished proof)" src="https://user-images.githubusercontent.com/1147773/162251236-7183bfca-f0ff-4b0c-99d0-0f1adc387247.png">
+
+Displaying the proof tree:
 
 ![edukera proof tree](https://user-images.githubusercontent.com/1147773/162238716-bc035556-6843-42df-b67a-315428bda5b9.png)
 
