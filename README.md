@@ -12,6 +12,10 @@ Given f:A→B and C⊆A, show that C⊆f^(-1) (f(C)).
 
 Given f:A→B and C⊆A, show that if f is injective then f^(-1) (f(C))⊆C.
 
+## Videos
+
+
+
 ## Authors
 
  - Evmorfia Iro Bartzia
