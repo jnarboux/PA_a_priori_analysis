@@ -15,10 +15,20 @@ Given f:A→B and C⊆A, show that if f is injective then f^(-1) (f(C))⊆C.
 
 ## Screenshots
 
+### DEAduction
+
 ### Isabelle/HOL
 
 ![ISABELLE_PROOF](https://user-images.githubusercontent.com/1147773/162236526-ad92ea78-2f30-4ce3-be75-eb3f88aa51c9.png)
 
+### Edukera
+
+<img width="839" alt="Capture d’écran 2022-04-07 à 18 20 57" src="https://user-images.githubusercontent.com/1147773/162251236-7183bfca-f0ff-4b0c-99d0-0f1adc387247.png">
+
+
+![edukera proof tree](https://user-images.githubusercontent.com/1147773/162238716-bc035556-6843-42df-b67a-315428bda5b9.png)
+
+### Lurch
 
 
 ## Videos
