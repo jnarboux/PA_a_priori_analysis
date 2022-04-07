@@ -1,4 +1,4 @@
-# PA_a_priori_analysis
+# Proof assistant for undergraduate mathematics education: elements of a priori analysis
 
 The repositoty contains accompanying files for the paper "Proof assistants for undergraduate mathematics and computer science education: elements of a priori analysis"
 
