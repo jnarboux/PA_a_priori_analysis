@@ -39,6 +39,10 @@ An option is also available to display the proof tree:
 
 ### Lurch
 
+<img width="1114" alt="Lurch screenshot (direct implication), with validation" src="https://user-images.githubusercontent.com/12487671/162258946-2209d926-a80a-45b4-8582-d6f7a897b36a.png">
+
+<img width="1114" alt="Lurch screenshot (converse, with injectivity), with validation" src="https://user-images.githubusercontent.com/12487671/162259343-053c2ad3-9645-4e1f-a397-c73b8b60f858.png">
+
 
 ## Videos
 
@@ -49,5 +53,3 @@ An option is also available to display the proof tree:
  - Evmorfia Iro Bartzia
  - Antoine Meyer
  - Julien Narboux
-
-
