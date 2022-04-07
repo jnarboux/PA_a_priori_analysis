@@ -39,9 +39,9 @@ An option is also available to display the proof tree:
 
 ### Lurch
 
-<img width="1114" alt="Lurch screenshot (direct implication), with validation" src="https://user-images.githubusercontent.com/12487671/162258946-2209d926-a80a-45b4-8582-d6f7a897b36a.png">
+<img width="1114" alt="Lurch screenshot (direct implication), with validation" src="https://user-images.githubusercontent.com/12487671/162260445-5d116693-37ba-449a-bd98-239777504e55.png">
 
-<img width="1114" alt="Lurch screenshot (converse, with injectivity), with validation" src="https://user-images.githubusercontent.com/12487671/162259343-053c2ad3-9645-4e1f-a397-c73b8b60f858.png">
+<img width="1114" alt="Lurch screenshot (converse, with injectivity), with validation" src="https://user-images.githubusercontent.com/12487671/162260449-ec8ec359-e3a6-4470-bae5-2a07fcc77e78.png">
 
 
 ## Videos
