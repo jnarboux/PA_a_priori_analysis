@@ -16,7 +16,7 @@ List of proof assistants we experimented with:
 - [Coq](coq.inria.fr), using tactics [case_study.v](Coq/case_study.v)
 - [Isabelle](https://isabelle.in.tum.de/), using the Isar declarative language [case_study.thy](Isabelle/case_study.thy)
 - [Lurch](https://lurchmath.github.io/lurch/site/), using controlled natural language [case_study.lurch](Lurch/case_study.lurch)
-- [Edukera](edukera.com), using a point and click user interface
+- [Edukera](edukera.com), using a point and click user interface built above Coq
 - [DEAduction](https://github.com/dEAduction/dEAduction), using a point and click user interface built above Lean
 
 ## Screenshots
