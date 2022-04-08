@@ -6,7 +6,7 @@ This paper presents an a-priori analysis of the use of five different interactiv
 
 ## Case study
 
-For formalize the following two exercises using several proof assistants:
+For formalize the following two exercises using several proof assistants.
 
 Given f:A→B and C⊆A, show that C⊆f^(-1) (f(C)).
 
