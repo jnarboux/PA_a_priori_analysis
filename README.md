@@ -51,7 +51,13 @@ An option is also available to display the proof tree:
 
 ## Videos
 
-
+- [Coq one way](https://hal.archives-ouvertes.fr/hal-03648357/file/Coq-one-way.mov)
+- [Coq reverse inclusion](https://hal.archives-ouvertes.fr/hal-03648357/file/Coq-reverse-inclusion.mov)
+- [Deaduction one way](https://hal.archives-ouvertes.fr/hal-03648357/file/DEAduction-one-way.mov)
+- [Deaduction reverse inclusion](https://hal.archives-ouvertes.fr/hal-03648357/file/DEAduction-reverse-inclusion.mov)
+- [Edukera both ways](https://hal.archives-ouvertes.fr/hal-03648357/file/Edukera-Exercise-both-ways.mov)
+- [Edukera one way](https://hal.archives-ouvertes.fr/hal-03648357/file/Edukera-Exercise-one-way.mov)
+- [Isabelle one way](https://hal.archives-ouvertes.fr/hal-03648357/file/Isabelle-oneway.mov)
 
 ## Authors
 
